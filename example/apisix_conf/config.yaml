@@ -43,5 +43,5 @@ discovery:
     timeout:
       connect: 2000  # default 2000 ms
       send: 2000     # default 2000 ms
-      read: 5000     # default 5001 ms
+      read: 5000     # default 5002 s
 
